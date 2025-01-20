@@ -78,7 +78,7 @@ span{
     padding: 30px 12% 0;
 }
 .home-content{
-    max-width: 800px;
+    max-width: 500px;
 }
 .home-content h3{
     font-size:30px;
@@ -130,8 +130,8 @@ span{
     color: orangered;
 }
 .img_box img{
-    border-radius: 500%;
-    width: 450px;
+    border-radius: 400%;
+    width: 350px;
 }
 ::-webkit-scrollbar{
     width: 15px;
