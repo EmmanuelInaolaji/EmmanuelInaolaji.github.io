@@ -10,7 +10,7 @@ header{
     position:fixed;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 200%;
     padding: 35px 12%;
     background-color: rgba(0, 0, 0, 0.8);
     backdrop-filter: blur(10px);
@@ -69,7 +69,7 @@ span{
     color: white;
 }
 .home{
-    width: 100%;
+    width: 200%;
     min-height: 130vh;
     background: rgb(241, 241, 241);
     display: flex;
@@ -78,7 +78,7 @@ span{
     padding: 30px 12% 0;
 }
 .home-content{
-    max-width: 500px;
+    max-width: 300px;
 }
 .home-content h3{
     font-size:30px;
@@ -154,7 +154,7 @@ span{
 }
 .about-img img{
     position: relative;
-    width: 400px;
+    width: 200px;
     box-shadow: 0 0 25px orangered, 
                 0 0 50px orangered;
     border-radius: 50%;
